@@ -21,6 +21,6 @@ Gem::Specification.new do |s|
   s.add_dependency("middleman-core", [">= 3.0.0", "< 3.3"])
   s.add_dependency("ruby-hmac", ["~> 0.4.0"])
   s.add_dependency("parallel", ["~> 0.6.1"])
-  s.add_dependency("fog", ["~> 1.8.0"])
+  s.add_dependency("fog", ["~> 1.19.0"])
   s.add_dependency("progressbar", ["~> 0.12.0"])
 end
